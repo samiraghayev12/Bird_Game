@@ -1,1 +1,1 @@
-# Bird_Game
+Simple imitation of a bird game
